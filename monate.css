@@ -1,0 +1,64 @@
+html {
+    background-color: rgb(217, 208, 208);
+
+    margin: 1%;
+   
+}
+
+
+  nav{
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;;
+ }
+  .p1{
+   
+    text-align: center;
+  }
+
+  body{
+    background-color: rgb(217, 208, 208);
+   
+  }
+
+  .monate{
+    text-align: center;
+  }
+
+  .started{
+    text-align: center;
+  }
+
+  .hurdles{
+    text-align: center;
+  }
+
+  .achieved{
+    text-align: center;
+  }
+
+  footer{
+    text-align: center;
+  }
+
+  .intouch{
+    text-align: center;
+  }
+
+  img{
+    border-radius: 30%;
+    display: block;
+    margin-left: auto ;
+    margin-right: auto;
+  }
+
+  .p10{
+    text-align: center;
+
+  }
+
+  .p11{
+    text-align: center;
+  }
+
+  
